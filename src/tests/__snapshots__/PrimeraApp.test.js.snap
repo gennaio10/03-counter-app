@@ -1,0 +1,49 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Pruebas de <PrimeraApp/>  debe mostrar el mensaje "Hola, soy Goku" 1`] = `
+<Fragment>
+  <h1>
+    Bienvenido...
+  </h1>
+  <p>
+    Hola, soy Goku
+  </p>
+  <p
+    id="tperfil"
+  >
+    Perfil por defecto
+  </p>
+  <p>
+    Laura inc
+  </p>
+  <pre>
+    {
+   "nombres": "Iron man",
+   "edad": 34
+}
+  </pre>
+</Fragment>
+`;
+
+exports[`Pruebas de <PrimeraApp/>  debe mostrar el mensaje "Hola, soy Goku" 2`] = `
+<Fragment>
+  <h1>
+    Bienvenido...
+  </h1>
+  <p>
+    Hola, soy Goku
+  </p>
+  <p>
+    Administrador
+  </p>
+  <p>
+    Laura inc
+  </p>
+  <pre>
+    {
+   "nombres": "Iron man",
+   "edad": 34
+}
+  </pre>
+</Fragment>
+`;

@@ -1,0 +1,38 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Pruebas de CounterApp.js debe mostrar el valor deseado 1`] = `
+<Fragment>
+  <h1>
+    CounterApp
+  </h1>
+  <h2
+    id="valorcontador"
+  >
+    10
+  </h2>
+  <button
+    id="btnadd"
+    onClick={[Function]}
+  >
+    +1
+  </button>
+  <button
+    id="btnreset"
+    onClick={[Function]}
+  >
+    Reset
+  </button>
+  <button
+    id="btnsub"
+    onClick={[Function]}
+  >
+    -1
+  </button>
+  <br />
+  <button
+    onClick={[Function]}
+  >
+    Click Event, paso de e por default
+  </button>
+</Fragment>
+`;
